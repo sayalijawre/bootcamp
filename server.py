@@ -16,7 +16,7 @@ html_temp = """ <div style="background-color:tomato;padding:10px">
     """
 st.markdown(html_temp, unsafe_allow_html=True)
 
-sl = st.text_input("Sepal Length", "Type Here")
+sl = st.text_input("Sepal Length", "Type Here 111")
 sw = st.text_input("Sepal Width", "Type Here")
 pl = st.text_input("Petal Length", "Type Here")
 pw = st.text_input("Petal Width", "Type Here")
